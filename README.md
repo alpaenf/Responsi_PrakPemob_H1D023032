@@ -50,7 +50,7 @@ Aplikasi ini mengikuti **layered architecture** untuk memisahkan logika dan tamp
 ---
 
 ## 🔗 Link Demo
-Kamu dapat melihat demo aplikasi melalui tautan berikut:  
+Kamu dapat melihat demo aplikasi dibawah ini  
 <img src="https://github.com/alpaenf/Responsi_PrakPemob_H1D023032/blob/main/app/src/main/res/drawable/demo_responsi%20(1).gif" width="250">
 
 ---
