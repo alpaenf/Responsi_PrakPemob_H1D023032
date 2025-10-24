@@ -51,16 +51,6 @@ Aplikasi ini mengikuti **layered architecture** untuk memisahkan logika dan tamp
 
 ## 🔗 Link Demo
 Kamu dapat melihat demo aplikasi melalui tautan berikut:  
-<img src="https://example.com/preview1.png" width="250">
+<img src="https://github.com/alpaenf/Responsi_PrakPemob_H1D023032/blob/main/app/src/main/res/drawable/demo_responsi%20(1).gif" width="250">
 
 ---
-
-## 👨‍💻 Pengembang
-**Nama:** Mukhammad Alfaen Fadillah  
-**NIM:** H1D023032  
-**Universitas:** Universitas Jenderal Soedirman  
-
----
-
-## 🏁 Kesimpulan
-Aplikasi ini memanfaatkan **Kotlin**, **Retrofit**, dan **Material Design** untuk menyajikan data klub sepak bola secara efisien, dengan arsitektur modular yang mudah dikembangkan.
